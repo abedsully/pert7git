@@ -1,1 +1,1 @@
-Ini adalah text2.txt
+Ini adalah text2.txt. Ini adalah perubahan dari branch abed
